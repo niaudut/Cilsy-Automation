@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_Login_Positive</name>
+   <name>API_Reqres_In</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>0ad2bddd-91eb-4517-a1f0-3097620fafb8</testCaseGuid>
+   <testCaseGuid>9e708a26-9623-4b34-a43c-6c6e0dff4b6c</testCaseGuid>
 </TestCaseEntity>

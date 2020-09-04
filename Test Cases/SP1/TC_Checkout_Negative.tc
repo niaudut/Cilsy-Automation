@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Checkout_Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff7f20e2-b64b-473e-97eb-55bc275374cf</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7bbf8760-f129-48f4-ab3a-5c2495106c17</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>26f9554c-9e6a-454e-8932-08892a4742a5</id>
+      <masked>false</masked>
+      <name>expected_result</name>
+   </variable>
+</TestCaseEntity>

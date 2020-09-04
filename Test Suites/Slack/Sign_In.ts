@@ -18,15 +18,9 @@
       <testCaseId>Test Cases/Slack/TC_NavigateToURL</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>a4e726e1-5663-459f-a61f-f91d2d806cdc</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
-      <testCaseId>Test Cases/Slack/TC_Login_Positive</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
       <guid>300d3ec3-8d98-48d9-9abf-1718293d767c</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Slack/TC_Login_Positive_With_Variable</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -54,6 +48,45 @@
          <type>DEFAULT</type>
          <value></value>
          <variableId>20a24d4f-38fe-4666-b11c-3ee20aef458f</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>dd58a35d-a56f-44e5-bbb9-0e0d4854ddab</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Slack/TC_Login_Positive</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1723c324-919b-4537-bf16-f9c4f802dfc7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Slack/TC_Login_Negative</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>cb127d55-f65e-47e0-881d-f01b3dd61e02</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>1-1</value>
+         </iterationEntity>
+         <testDataId>Data Files/Data/Login Data Slack</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>cb127d55-f65e-47e0-881d-f01b3dd61e02</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>ebf7a284-1bef-47f2-83c6-38bda272c9e2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>cb127d55-f65e-47e0-881d-f01b3dd61e02</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>69c6f390-4a34-470c-8a14-4a9d6472d65b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>cb127d55-f65e-47e0-881d-f01b3dd61e02</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>expected_result</value>
+         <variableId>716d59ac-6eb3-416b-8ad4-12f3acf85589</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Payment Declined Data CC SP1</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>203aa10e-92f8-4eeb-877a-3dea60c1f7f5</dataFileGUID>
+   <dataSourceUrl>C:\Users\ASUS\Katalon Studio\Cilsy Automation\Data Files\Payment Declined Data CC SP1.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Payment Declined Data CC SP1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

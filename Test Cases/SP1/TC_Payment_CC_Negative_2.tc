@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_Login_Positive</name>
+   <name>TC_Payment_CC_Negative_2</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>0ad2bddd-91eb-4517-a1f0-3097620fafb8</testCaseGuid>
+   <testCaseGuid>6ad0d11d-f497-4d8b-8b79-b13f15d48217</testCaseGuid>
 </TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Payment_Non_CC_Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>92f1c0c5-7854-44eb-a4ad-4f28f418806a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3b41ee72-1632-4ac4-957e-5f9624b66629</id>
+      <masked>false</masked>
+      <name>user</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>12df463a-3897-4b3e-8a8b-0b7eb811ee83</id>
+      <masked>false</masked>
+      <name>expected_result</name>
+   </variable>
+</TestCaseEntity>

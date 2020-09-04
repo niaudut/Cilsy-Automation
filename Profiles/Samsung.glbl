@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Samsung</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Samsung'</initValue>
+      <name>deviceName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://reqres.in/api/users?page=2'</initValue>
+      <name>URLreqresGet</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://reqres.in/api/users'</initValue>
+      <name>URLreqresPost</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Efendi'</initValue>
+      <name>userName</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

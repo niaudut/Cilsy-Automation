@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_Login_Positive</name>
+   <name>TC_Cancel_Payment</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>0ad2bddd-91eb-4517-a1f0-3097620fafb8</testCaseGuid>
+   <testCaseGuid>e62fb691-eebc-4a19-8aa0-b3e3bebf390d</testCaseGuid>
 </TestCaseEntity>

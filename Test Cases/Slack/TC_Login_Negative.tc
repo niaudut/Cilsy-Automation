@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Login_Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>59a4fb43-cab7-49df-aa34-c57be72aa559</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ebf7a284-1bef-47f2-83c6-38bda272c9e2</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>69c6f390-4a34-470c-8a14-4a9d6472d65b</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>716d59ac-6eb3-416b-8ad4-12f3acf85589</id>
+      <masked>false</masked>
+      <name>expected_result</name>
+   </variable>
+</TestCaseEntity>
